@@ -7,14 +7,18 @@ I am mohammed, As a skilled Flutter developer with +2 years of experience, I hav
 
 ## Skills:
  * Dart language.
-
+ * Complex UI.
  * Firebase (Authentication, Fire Storage, etc...).
  * Clean Code (MVP - MVVM - MVC) and best practices.
- * Restful API.
+ * Restful API(Dio, http).
+ * State management (provider, Bloc, Riverpod, getx....etc).
  * Local database (SQLite, Shared preferences).
+ * Google Maps (real-time tracking, places, geocoding, directions .... etc).
  * OOP.
- * GitHub, Trello, slack, and other software.
- * Software methodologies like scrum and agile.
+ * payments gateway integration.
+ * push notifications.
+ * GitHub, Trello, Slack, and other software.
+ * Software methodologies like Scrum and Agile.
 
 
 
