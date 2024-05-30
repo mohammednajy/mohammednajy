@@ -45,10 +45,16 @@ MedStore is an innovative app designed for selling medical devices, providing a 
 
 [![59060d6c0cbeef0acff9a65f](https://github.com/mohammednajy/mohammednajy/assets/66953724/68eb8194-efd6-428f-bcb8-ae0445e5d1c2)](https://play.google.com/store/apps/details?id=com.tecvaley.notienziert)
 
+## Sezon app
+Sezon is a unique e-commerce app dedicated to selling a variety of traditional and artisanal products, including ceramics, wreaths, embroideries, wooden items, and accessories. Our platform brings together the beauty and craftsmanship of local artisans, offering customers an easy and convenient way to purchase these exquisite items.
 
+![sezonapp](https://github.com/mohammednajy/mohammednajy/assets/66953724/51a73b7b-c0b1-45be-bbee-658f80e2f7a4)
 
+## Meal Monkey App 
 
+<img width="827" alt="Screenshot 2024-05-30 at 17 21 02" src="https://github.com/mohammednajy/mohammednajy/assets/66953724/dac1f58a-7813-40af-921a-c06b67132be8">
 
-
+# APK
+[![59060d6c0cbeef0acff9a65f](https://github.com/mohammednajy/mohammednajy/assets/66953724/68eb8194-efd6-428f-bcb8-ae0445e5d1c2)](https://play.google.com/store/apps/details?id=com.techvalley.food_delivery)
 
 
